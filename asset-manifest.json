@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dad9b16e.chunk.css",
+    "main.js": "/static/js/main.16c42310.chunk.js",
+    "main.js.map": "/static/js/main.16c42310.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e74862a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e74862a.js.map",
+    "static/css/2.622a1a23.chunk.css": "/static/css/2.622a1a23.chunk.css",
+    "static/js/2.0247a057.chunk.js": "/static/js/2.0247a057.chunk.js",
+    "static/js/2.0247a057.chunk.js.map": "/static/js/2.0247a057.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.622a1a23.chunk.css.map": "/static/css/2.622a1a23.chunk.css.map",
+    "static/css/main.dad9b16e.chunk.css.map": "/static/css/main.dad9b16e.chunk.css.map",
+    "static/js/2.0247a057.chunk.js.LICENSE.txt": "/static/js/2.0247a057.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/static/media/loader.87dcffbd.gif",
+    "static/media/all.min.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/logo.a5e2677e.png": "/static/media/logo.a5e2677e.png",
+    "static/media/mobile-video.2c842a84.mp4": "/static/media/mobile-video.2c842a84.mp4",
+    "static/media/mobiles-img-1.7f5c085f.png": "/static/media/mobiles-img-1.7f5c085f.png",
+    "static/media/phone-iphone-frame.29382ac8.png": "/static/media/phone-iphone-frame.29382ac8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e74862a.js",
+    "static/css/2.622a1a23.chunk.css",
+    "static/js/2.0247a057.chunk.js",
+    "static/css/main.dad9b16e.chunk.css",
+    "static/js/main.16c42310.chunk.js"
+  ]
+}
