@@ -1,0 +1,34 @@
+@media (max-width: 767px) {
+	.site-wrapper {
+		flex-direction: column;
+	}
+	.site-wrapper .logo {
+		max-width: 100%;
+	}
+
+	.site-wrapper .logo img {
+		max-width: 100%;
+	}
+
+	.search-form .form-input-wrapper {
+		margin-top: 15px;
+		position: relative;
+	}
+
+	#details-popup .owner {
+		width: 100%;
+		margin: 0 0 15px;
+	}
+
+	#details-popup .owner:last-child {
+		margin-bottom: 0;
+	}
+	.search-results {
+		overflow: auto;
+	}
+
+	.site-wrapper .navigation{
+		text-align: center;
+		margin-top: 20px;
+	}
+}
